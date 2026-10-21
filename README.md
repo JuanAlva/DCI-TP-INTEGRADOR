@@ -3,7 +3,8 @@ Este repositorio contiene el trabajo práctico final para la asignatura de Dise�
 
 * Autor: XXXXCOMPLETARXXXX
 * Título corto del trabajo:  XXXXCOMPLETARXXXX
-* Descripción:  XXXXCOMPLETARXXXX
+* Descripción:  XXXXCOMPLETARXXXX (Debe aclarar la función y el objetivo del cto.)
+* Cursada: OCT-NOV-DIC 2026
 
 
 ## Licencia de este trabajo ##
