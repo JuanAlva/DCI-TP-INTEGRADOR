@@ -1,17 +1,17 @@
 ## Trabajo práctico INTEGRADOR de la asignatura DCI ##
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
-* Autor: XXXXCOMPLETARXXXX
-* Título corto del trabajo:  XXXXCOMPLETARXXXX
-* Descripción:  XXXXCOMPLETARXXXX (Debe aclarar la función y el objetivo del cto.)
+* Autor: Juan Alva
+* Título corto del trabajo:  Módulo controlador CAN por SPI (MCP2515)
+* Descripción:  Réplica en KiCad de un módulo controlador CAN basado en el MCP2515,
+  que permite a un microcontrolador sin periférico CAN comunicarse en un bus CAN 2.0B
+  a través de una interfaz SPI.
 * Cursada: OCT-NOV-DIC 2026
 
-
 ## Licencia de este trabajo ##
-XXXMENCIONAR ACÁ LA LICENCIAXXX (Editar este párrafo) 
-Y además colcar el archivo de texto de la misma en el directorio raíz.
-Para este TP se pide que la licencia sea de hardware abierto.
-Ver la sección "What license should I use?": https://www.oshwa.org/faq/
+Este diseño de hardware se distribuye bajo la licencia CERN Open Hardware Licence
+Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0). El texto completo se encuentra en
+el archivo `LICENSE` en el directorio raíz.
 
 ## Estructura del TP INTEGRADOR ##
 
