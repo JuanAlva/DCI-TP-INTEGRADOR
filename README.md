@@ -1,4 +1,4 @@
-## Trabajo práctico final de la asignatura DCI ##
+## Trabajo práctico INTEGRADOR de la asignatura DCI ##
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
 * Autor: XXXXCOMPLETARXXXX
@@ -13,7 +13,7 @@ Y además colcar el archivo de texto de la misma en el directorio raíz.
 Para este TP se pide que la licencia sea de hardware abierto.
 Ver la sección "What license should I use?": https://www.oshwa.org/faq/
 
-## Estructura del TP FINAL ##
+## Estructura del TP INTEGRADOR ##
 
 Se propone y se pide utilizar la siguiente estructura.
 
@@ -37,7 +37,7 @@ Revisar los README.md en cada directorio para conocer las pautas de cada uno par
 
 NOTA: El alumno puede y debe borrar de este archivo todo lo que considere necesario, por ejemplo las aclaraciones del docente y esta misma nota.
 
-## Obligatorios para el TP Final ##
+## Obligatorios para el TP INTEGRADOR ##
 * doc/propuesta/README.md (con textos y links, formato markdown, a imágenes que deben estar en el mismo repo. Las imágenes son las que se piden en las pautas de TP).
 * info/*.pdf (Se piden solo las hojas de datos de los componentes relevantes como circuitos integrados, conectores particulares, módulos, etc. No es necesario poner hojas de pasivos, discretos comunes, conectores estándar.)
 * pcb/* (Acá va el proyecto KiCad, modelos 3D, bibliotecas particulares y archivos generados como BOM, gerbers, etc.). EVITE subir al git archivos temporales de KiCad. Se recomienda usar un .gitignore adecuado.
