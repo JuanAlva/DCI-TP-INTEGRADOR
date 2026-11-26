@@ -1,0 +1,13 @@
+# KiCad: historial local, respaldos y temporales
+.history/
+*-backups/
+*.bak
+*.bck
+*.lck
+~*.lck
+*.kicad_prl
+fp-info-cache
+_autosave-*
+*-save.kicad_sch
+*-save.kicad_pcb
+\#auto_saved_files#
